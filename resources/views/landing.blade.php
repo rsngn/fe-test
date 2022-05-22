@@ -11,10 +11,15 @@
 
         <!-- Styles -->
         <link href="/css/app.css" rel="stylesheet">
+        <link href="/css/fonts.css" rel="stylesheet">
+        <link href="/css/style.css" rel="stylesheet">
         </style>
     </head>
-    <body>
-        <div>
-        </div>
+    <body class="bg-white">
+        <x-headers.index/>
+
+
+        <!-- scripts -->
+        <script src="/js/app.js"></script>
     </body>
 </html>
