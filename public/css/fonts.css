@@ -1,0 +1,182 @@
+@font-face {
+    font-family: 'Montserrat-Black';
+    src: url('../assets/fonts/montserrat/Montserrat-Black.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Montserrat-Bold';
+    src: url('../assets/fonts/montserrat/Montserrat-Bold.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Montserrat-Hairline';
+    src: url('../assets/fonts/montserrat/Montserrat-Hairline.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Montserrat-Light';
+    src: url('../assets/fonts/montserrat/Montserrat-Light.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Montserrat-Regular';
+    src: url('../assets/fonts/montserrat/Montserrat-Regular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Roboto-Black';
+    src: url('../assets/fonts/roboto/Roboto-Black.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Roboto-BlackItalic';
+    src: url('../assets/fonts/roboto/Roboto-BlackItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Roboto-Bold';
+    src: url('../assets/fonts/roboto/Roboto-Bold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Roboto-BoldCondensed';
+    src: url('../assets/fonts/roboto/Roboto-BoldCondensed.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Roboto-BoldCondensedItalic';
+    src: url('../assets/fonts/roboto/Roboto-BoldCondensedItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Roboto-Condensed';
+    src: url('../assets/fonts/roboto/Roboto-Condensed.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Roboto-CondensedItalic';
+    src: url('../assets/fonts/roboto/Roboto-CondensedItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Roboto-Italic';
+    src: url('../assets/fonts/roboto/Roboto-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Roboto-Light';
+    src: url('../assets/fonts/roboto/Roboto-Light.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Roboto-LightItalic';
+    src: url('../assets/fonts/roboto/Roboto-LightItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Roboto-Medium';
+    src: url('../assets/fonts/roboto/Roboto-Medium.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Roboto-MediumItalic';
+    src: url('../assets/fonts/roboto/Roboto-MediumItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Roboto-Regular';
+    src: url('../assets/fonts/roboto/Roboto-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Roboto-Thin';
+    src: url('../assets/fonts/roboto/Roboto-Thin.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Roboto-ThinItalic';
+    src: url('../assets/fonts/roboto/Roboto-ThinItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.font-Montserrat-Black{
+    font-family: 'Montserrat-Black';
+}
+.font-Montserrat-Bold{
+    font-family: 'Montserrat-Bold';
+}
+.font-Montserrat-Hairline{
+    font-family: 'Montserrat-Hairline';
+}
+.font-Montserrat-Light{
+    font-family: 'Montserrat-Light';
+}
+.font-Montserrat-Regular{
+    font-family: 'Montserrat-Regular';
+}
+
+.font-Roboto-Black{
+    font-family: 'Roboto-Black';
+}
+.font-Roboto-BlackItalic{
+    font-family: 'Roboto-BlackItalic';
+}
+.font-Roboto-Bold{
+    font-family: 'Roboto-Bold';
+}
+.font-Roboto-BoldCondensed{
+    font-family: 'Roboto-BoldCondensed';
+}
+.font-Roboto-BoldCondensedItalic{
+    font-family: 'Roboto-BoldCondensedItalic';
+}
+.font-Roboto-Condensed{
+    font-family: 'Roboto-Condensed';
+}
+.font-Roboto-CondensedItalic{
+    font-family: 'Roboto-CondensedItalic';
+}
+.font-Roboto-Italic{
+    font-family: 'Roboto-Italic';
+}
+.font-Roboto-Light{
+    font-family: 'Roboto-Light';
+}
+.font-Roboto-LightItalic{
+    font-family: 'Roboto-LightItalic';
+}
+.font-Roboto-Medium{
+    font-family: 'Roboto-Medium';
+}
+.font-Roboto-MediumItalic{
+    font-family: 'Roboto-MediumItalic';
+}
+.font-Roboto-Regular{
+    font-family: 'Roboto-Regular';
+}
+.font-Roboto-Thin{
+    font-family: 'Roboto-Thin';
+}
+.font-Roboto-ThinItalic{
+    font-family: 'Roboto-ThinItalic';
+}
