@@ -1,7 +1,7 @@
 <div class="row pt-1">
     <div class="col pe-0 pe-lg-2">
         <span class="align-top">
-            <i class="fa-solid fa-bookmark text-niaga" style="position: relative;top: -5px; font-size: 36px;"></i>
+            <i class="fa-solid fa-bookmark niaga-blue" style="position: relative;top: -5px; font-size: 36px;"></i>
             <i class="fa-solid fa-tag text-white" style="left: -22px;top: -16px;position: relative;font-size: 14px;width: 0px"></i>
         </span>
         <span class="small">

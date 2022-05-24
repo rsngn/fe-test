@@ -3,8 +3,78 @@ hr{
     margin: 0px;
 }
 
-.text-niaga{
+button.rounded-pill{
+    border-style: solid;
+}
+
+.niaga-blue{
     color: #0090EF;
+}
+
+.niaga-green{
+    color: #00B348;
+}
+
+.diskon-big-number{
+    top: -10px;
+    position: relative;
+}
+
+.border-niaga{
+    background-color: #008FEE;
+    border-color: #008FEE !important;
+    /* border-style: solid; */
+}
+
+.border-niaga-dark{
+    background-color: #007FDE;
+    border-color: #008FEE !important;
+}
+
+.border-niaga-light{
+    background-color: #00A2F3;
+    border-color: white !important;
+}
+
+
+.bg-niaga-light{
+    background-color: #00A2F3;
+}
+
+.check-niaga {
+    list-style:none;
+}
+
+.bg-gray{
+    background-color: #F7F7F7;
+}
+
+.small-divider{
+    background-color: #F1F1F1;
+    height: 5px;
+    width: 90px;
+    margin: auto;
+}
+
+.check-niaga li:before {    
+    font-family: 'Font Awesome 6 Free';
+    font-size: 1.125rem;
+    content: '\f058';
+    color: #00B348;
+}
+
+.strike-niaga {
+    text-decoration: underline;
+    text-underline-offset: -0.3em;
+    text-decoration-skip-ink: none;
+}
+
+.social-circle{
+    width: 50px;
+    height: 50px;
+    border: 2px solid #fff;
+    border-radius: 50%;
+    padding: 12px;
 }
 
 #logo-niaga{
@@ -14,5 +84,11 @@ hr{
 @media (max-width: 576px) {
     #logo-niaga{
         width: 50%;
+    }
+}
+
+@media (min-width: 425px){
+    .justify-content-xs-center {
+        justify-content: center !important;
     }
 }

@@ -1,0 +1,8 @@
+[
+    "max execution time 300s",
+    "max execution time 300s",
+    "php memory limit 1024 MB",
+    "post max size 128 MB",
+    "upload max filesize 128 MB",
+    "max input vars 2500"
+]

@@ -191,9 +191,8 @@
                 "col2": "Layanan Support"
             },
             {
-                "type": "icon",
-                "col1": "",
-                "col2": "star-fill"
+                "type": "entity",
+                "value": "&bigstar;&bigstar;&bigstar;&bigstar;&bigstar;"
             },{
                 "type": "text",
                 "col1": "SpamExpert",

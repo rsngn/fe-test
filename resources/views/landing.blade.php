@@ -13,11 +13,14 @@
         <link href="/css/app.css" rel="stylesheet">
         <link href="/css/fonts.css" rel="stylesheet">
         <link href="/css/style.css" rel="stylesheet">
+        <link href="/css/speech.css" rel="stylesheet">
+        <link href="/css/ribbon.css" rel="stylesheet">
         </style>
     </head>
     <body class="bg-white">
         <x-headers.index/>
-
+        <x-content.index/>
+        <x-footer/>
 
         <!-- scripts -->
         <script src="/js/app.js"></script>
