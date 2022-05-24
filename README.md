@@ -7,4 +7,4 @@ Landing page build using laravel 9. Current mock data taken from JSON file so th
 
 ## Installation
 
-Simply clone the repo, install dependency using ```composer install```, then ```php artisan serve```, open localhost:8000
+Simply clone the repo, install dependency using ```composer install```, then ```php artisan serve```, open ```localhost:8000```
